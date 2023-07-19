@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UXlJoMl2x5sXq07HRnlC2rG0+L/zo70aUPLeP6I/gAo=",
+  "Source": "DNCP1_HTTP",
+  "BasePath": "_content/DNCP1_HTTP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

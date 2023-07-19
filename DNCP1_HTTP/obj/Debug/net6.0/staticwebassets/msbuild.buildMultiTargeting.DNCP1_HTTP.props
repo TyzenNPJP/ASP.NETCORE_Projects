@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNCP1_HTTP.props" />
+</Project>
