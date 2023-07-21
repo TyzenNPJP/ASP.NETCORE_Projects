@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uBcbiJzn8JD3DFIif6k9SMpBjkoxLYwV6eqV/qWV0xc=",
+  "Source": "DNCP4-Controllers",
+  "BasePath": "_content/DNCP4-Controllers",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DNCP4-Controllers\\wwwroot",
+      "Source": "DNCP4-Controllers",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP4-Controllers\\wwwroot\\",
+      "BasePath": "_content/DNCP4-Controllers",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP4-Controllers\\wwwroot\\Probability_MIT.pdf",
+      "SourceId": "DNCP4-Controllers",
+      "SourceType": "Discovered",
+      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP4-Controllers\\wwwroot\\",
+      "BasePath": "_content/DNCP4-Controllers",
+      "RelativePath": "Probability_MIT.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Probability_MIT.pdf"
+    }
+  ]
+}
