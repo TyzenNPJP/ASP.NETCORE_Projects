@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DNCP3-Routing/1.0.0": {
+        "runtime": {
+          "DNCP3-Routing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNCP3-Routing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
