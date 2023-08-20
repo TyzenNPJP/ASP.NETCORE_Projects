@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DNCP6-RazorViews.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DNCP6-RazorViews.props",
+      "PackagePath": "build\\DNCP6-RazorViews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DNCP6-RazorViews.props",
+      "PackagePath": "buildMultiTargeting\\DNCP6-RazorViews.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DNCP6-RazorViews.props",
+      "PackagePath": "buildTransitive\\DNCP6-RazorViews.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

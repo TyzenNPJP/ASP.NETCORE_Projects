@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNCP5-ModelBinding.props" />
+</Project>

@@ -1,0 +1,33 @@
+﻿@model Student_Management_System.Models.Level
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/Styles.css" />
+</head>
+
+<h4 class="text-center1">Create Levels</h4>
+<hr />
+<div class="div-form">
+    <form asp-action="Create">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group div-form-elements">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <div class="form-group div-btn">
+            <input type="submit" value="Create" class="btn btn-submit" />
+        </div>
+    </form>
+</div>
+
+<div class="div-center1">
+    <a asp-action="Index" class="text-center1">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

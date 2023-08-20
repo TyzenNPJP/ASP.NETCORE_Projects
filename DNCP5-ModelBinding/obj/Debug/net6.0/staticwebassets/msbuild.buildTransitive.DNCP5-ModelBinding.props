@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DNCP5-ModelBinding.props" />
+</Project>

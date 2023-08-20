@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNCP6-RazorViews.props" />
+</Project>
