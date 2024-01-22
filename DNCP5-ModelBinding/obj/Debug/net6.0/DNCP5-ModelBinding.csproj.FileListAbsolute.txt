@@ -24,3 +24,29 @@ V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\De
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.pdb
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.genruntimeconfig.cache
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\ref\DNCP5-ModelBinding.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\appsettings.Development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\appsettings.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\DNCP5-ModelBinding.exe
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\DNCP5-ModelBinding.deps.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\DNCP5-ModelBinding.runtimeconfig.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\DNCP5-ModelBinding.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\bin\Debug\net6.0\DNCP5-ModelBinding.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.AssemblyInfoInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.AssemblyInfo.cs
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.csproj.CoreCompileInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.MvcApplicationPartsAssemblyInfo.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.sourcelink.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets.build.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets.development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.DNCP5-ModelBinding.Microsoft.AspNetCore.StaticWebAssets.props
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.build.DNCP5-ModelBinding.props
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNCP5-ModelBinding.props
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNCP5-ModelBinding.props
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\staticwebassets.pack.json
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\scopedcss\bundle\DNCP5-ModelBinding.styles.css
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\refint\DNCP5-ModelBinding.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\DNCP5-ModelBinding.genruntimeconfig.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP5-ModelBinding\obj\Debug\net6.0\ref\DNCP5-ModelBinding.dll

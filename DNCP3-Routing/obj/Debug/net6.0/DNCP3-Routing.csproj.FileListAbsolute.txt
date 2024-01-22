@@ -24,3 +24,29 @@ V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\n
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.pdb
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.genruntimeconfig.cache
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\ref\DNCP3-Routing.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\appsettings.Development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\appsettings.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\DNCP3-Routing.exe
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\DNCP3-Routing.deps.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\DNCP3-Routing.runtimeconfig.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\DNCP3-Routing.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\bin\Debug\net6.0\DNCP3-Routing.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.AssemblyInfoInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.AssemblyInfo.cs
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.csproj.CoreCompileInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.MvcApplicationPartsAssemblyInfo.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.sourcelink.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets.build.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets.development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets\msbuild.DNCP3-Routing.Microsoft.AspNetCore.StaticWebAssets.props
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets\msbuild.build.DNCP3-Routing.props
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNCP3-Routing.props
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNCP3-Routing.props
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\staticwebassets.pack.json
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\scopedcss\bundle\DNCP3-Routing.styles.css
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\refint\DNCP3-Routing.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\DNCP3-Routing.genruntimeconfig.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP3-Routing\obj\Debug\net6.0\ref\DNCP3-Routing.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DNCP4-Controllers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a62e1da8ddd6d62515d5430d06ac0261b0f3feb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DNCP4-Controllers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DNCP4-Controllers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

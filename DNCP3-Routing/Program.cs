@@ -17,9 +17,11 @@ Dictionary<int, string> nation_Dict = new Dictionary<int, string>()
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
+// Initalizes the use of routing and runs any endpoints below than this command
 app.UseRouting();
 
 // Initializes endpoints that respond to HTTP request in accordance
+// Creates an object if HttpContext by default
 app.UseEndpoints(endpoints =>
 {
     endpoints.MapGet("/Countries", async context =>

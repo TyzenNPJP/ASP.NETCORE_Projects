@@ -1,5 +1,5 @@
 /*
- * ABOUT    - CONTROLLERS - A banking app that collects account profile and responds with files and content
+ * ABOUT - CONTROLLERS - A banking app that collects account profile and responds with files and content
  *              
  *                          (Collect data from HTTP requests,
  *                          Perform operation on data through models and

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Akc6i8xk3GHHZ8lqDKTAlGtjGvWRL8XzElp2ZS8wVRBEvBDuU5s/12uJJJlKddUvpaL6XXr6wkj2ZeDV8UURqQ==",
+  "dgSpecHash": "hx8RqZwBzVJ8HyvWnIvstEEJTHvJlyCN1NEWjZVkdXKkUKhAeszZCE3UTAIXHuxAtTvYsVgrdCSDWoBOxslvXw==",
   "success": true,
-  "projectFilePath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

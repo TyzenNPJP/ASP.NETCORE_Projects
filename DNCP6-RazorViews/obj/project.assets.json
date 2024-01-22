@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\DNCP6-RazorViews.csproj",
+      "projectUniqueName": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\DNCP6-RazorViews.csproj",
       "projectName": "DNCP6-RazorViews",
-      "projectPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\DNCP6-RazorViews.csproj",
+      "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\DNCP6-RazorViews.csproj",
       "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-      "outputPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\obj\\",
+      "outputPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

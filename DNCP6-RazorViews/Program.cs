@@ -2,13 +2,15 @@
  *  ABOUT -     WEATHER APP THAT SHOWS CITY DETAILS AND WEATHER
 */
 
-var builder = WebApplication.CreateBuilder(args);
+var builder = WebApplication.CreateBuilder();
+
+// Configures the bulid with controllers and view page
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
 
-app.UseStaticFiles();
-
 app.MapControllers();
+
+app.UseStaticFiles();
 
 app.Run();

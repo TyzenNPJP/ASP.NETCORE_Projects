@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9MomlVNR5UdrTmY5wjVEZw8Q0tuFEqG0w+Mi9gS8qbc=",
+  "Hash": "HuuI/O5Le7xsD++j+oKI9aOXQoEMXIplyM/ZLFAVwGs=",
   "Source": "DNCP6-RazorViews",
   "BasePath": "_content/DNCP6-RazorViews",
   "Mode": "Default",
@@ -10,22 +10,24 @@
     {
       "Name": "DNCP6-RazorViews\\wwwroot",
       "Source": "DNCP6-RazorViews",
-      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\",
       "BasePath": "_content/DNCP6-RazorViews",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\StyleSheet.css",
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\StyleSheet.css",
       "SourceId": "DNCP6-RazorViews",
       "SourceType": "Discovered",
-      "ContentRoot": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP6-RazorViews\\wwwroot\\",
       "BasePath": "_content/DNCP6-RazorViews",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",

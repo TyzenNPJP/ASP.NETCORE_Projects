@@ -5,7 +5,7 @@
  *          @ STATUS CODES
 */
 
-// Creates an primary object of web application
+// Creates a primary object of web application
 var builder = WebApplication.CreateBuilder();
 // Creates an object with which HTTP request and response is handled
 var app = builder.Build();

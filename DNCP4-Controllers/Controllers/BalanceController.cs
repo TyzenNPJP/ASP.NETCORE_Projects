@@ -19,7 +19,7 @@ namespace DNCP4_Controllers.Controllers
             if (accNum == 1001)
             {
                 StatusCode(200);
-                return Content($"<h1>Valid accNum! {accNum} has a balance of 5000</h1>");
+                return Content($"<h1>Valid accNum! {accNum} has a balance of 5000000</h1>");
             }
             else
             {

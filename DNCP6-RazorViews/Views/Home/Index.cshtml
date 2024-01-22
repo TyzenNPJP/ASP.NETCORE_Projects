@@ -1,34 +1,52 @@
-﻿@model CityWeatherWrapper
+﻿@*
+    Home view page with hard coded data
+*@
 
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>Weather Home Page</title>
-    <link rel="stylesheet" href="~/StyleSheet.css" />
-</head>
-<body>
-    <h1>Weather City 1</h1>
-    <ul>
-        <li>@Model.cww1.City_Unique_Code</li>
-        <li>@Model.cww1.City_Name</li>
-        <li>@Model.cww1.Date_Time</li>
-        <li>@Model.cww1.TemperatureF</li>
-    </ul>
-    <br />
-    <h1>Weather City 2</h1>
-    <ul>
-        <li>@Model.cww2.City_Unique_Code</li>
-        <li>@Model.cww2.City_Name</li>
-        <li>@Model.cww2.Date_Time</li>
-        <li>@Model.cww2.TemperatureF</li>
-    </ul>
-    <br />
-    <h1>Weather City 2</h1>
-    <ul>
-        <li>@Model.cww3.City_Unique_Code</li>
-        <li>@Model.cww3.City_Name</li>
-        <li>@Model.cww3.Date_Time</li>
-        <li>@Model.cww3.TemperatureF</li>
-    </ul>
-</body>
+@model AllWeather
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>HomePage</title>
+        <meta charset="utf-8" />
+        <link href="~/StyleSheet.css" rel="stylesheet" />
+        <style>
+            .float-center{float: inline-start}
+            .float-right{float: inline-end}
+            .div-center{margin: auto}
+            .width{max-width: 20px}
+            .color-hot {background-color: lightcoral}
+            .color-medium {background-color: lightgreen}
+            .color-cold {background-color: cornflowerblue}
+        </style>
+    </head>
+    <body>
+        
+    @{
+        char deg_symbol = (char)0x00B0;
+    }
+
+        <h1 class="text-center">Weather</h1>
+
+        <div class=" box w-10 text-center flex div-center margin-top-200 width float-left color-medium">
+            <text>@Model.list_weather[0].name</text>
+            <text>@Model.list_weather[0].date_time.TimeOfDay</text>
+            <text>@Model.list_weather[0].temperature @deg_symbol C</text>
+            @Html.ActionLink("details", "Index", "Detail", new { city_code = "100" }, null)
+        </div>
+
+        <div class="box w-10 text-center flex div-center margin-top-200 float-center width color-hot">
+            <text>@Model.list_weather[1].name</text>
+            <text>@Model.list_weather[1].date_time.TimeOfDay</text>
+            <text>@Model.list_weather[1].temperature @deg_symbol C</text>
+            @Html.ActionLink("details", "Index", "Detail", new { city_code = "101" }, null)
+        </div>
+
+        <div class="box w-10 text-center flex div-center margin-top-200 float-center width color-cold">
+            <text>@Model.list_weather[2].name</text>
+            <text>@Model.list_weather[2].date_time.TimeOfDay</text>
+            <text>@Model.list_weather[2].temperature @deg_symbol C</text>
+            @Html.ActionLink("details", "Index", "Detail", new { city_code = "102" }, null)
+        </div>
+    </body>
 </html>

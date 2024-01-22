@@ -25,3 +25,30 @@ V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Deb
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.pdb
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.genruntimeconfig.cache
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\ref\DNCP4-Controllers.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\appsettings.Development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\appsettings.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.staticwebassets.runtime.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.exe
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.deps.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.runtimeconfig.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\bin\Debug\net6.0\DNCP4-Controllers.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.AssemblyInfoInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.AssemblyInfo.cs
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.csproj.CoreCompileInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.MvcApplicationPartsAssemblyInfo.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.sourcelink.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets.build.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets.development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets\msbuild.DNCP4-Controllers.Microsoft.AspNetCore.StaticWebAssets.props
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets\msbuild.build.DNCP4-Controllers.props
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNCP4-Controllers.props
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNCP4-Controllers.props
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\staticwebassets.pack.json
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\scopedcss\bundle\DNCP4-Controllers.styles.css
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\refint\DNCP4-Controllers.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\DNCP4-Controllers.genruntimeconfig.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP4-Controllers\obj\Debug\net6.0\ref\DNCP4-Controllers.dll

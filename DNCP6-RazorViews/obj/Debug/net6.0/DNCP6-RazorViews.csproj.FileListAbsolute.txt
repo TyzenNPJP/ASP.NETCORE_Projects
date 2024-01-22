@@ -27,3 +27,32 @@ V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debu
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.pdb
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.genruntimeconfig.cache
 V:\WEB DEV\ASP.NET CORE (Backend)\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\ref\DNCP6-RazorViews.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\appsettings.Development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\appsettings.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.staticwebassets.runtime.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.exe
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.deps.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.runtimeconfig.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\bin\Debug\net6.0\DNCP6-RazorViews.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.AssemblyInfoInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.AssemblyInfo.cs
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.csproj.CoreCompileInputs.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.MvcApplicationPartsAssemblyInfo.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.RazorAssemblyInfo.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.RazorAssemblyInfo.cs
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.sourcelink.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets.build.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets.development.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets\msbuild.DNCP6-RazorViews.Microsoft.AspNetCore.StaticWebAssets.props
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets\msbuild.build.DNCP6-RazorViews.props
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DNCP6-RazorViews.props
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DNCP6-RazorViews.props
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\staticwebassets.pack.json
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\scopedcss\bundle\DNCP6-RazorViews.styles.css
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\refint\DNCP6-RazorViews.dll
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.pdb
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\DNCP6-RazorViews.genruntimeconfig.cache
+T:\CODE\ASP.NETCORE_Projects\DNCP6-RazorViews\obj\Debug\net6.0\ref\DNCP6-RazorViews.dll

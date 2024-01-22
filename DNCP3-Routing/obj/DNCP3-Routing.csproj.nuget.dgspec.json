@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj": {}
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj": {}
   },
   "projects": {
-    "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj": {
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
+        "projectUniqueName": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
         "projectName": "DNCP3-Routing",
-        "projectPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
+        "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\DNCP3-Routing.csproj",
         "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
-        "outputPath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP3-Routing\\obj\\",
+        "outputPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP3-Routing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -51,6 +50,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.25, 6.0.25]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -59,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

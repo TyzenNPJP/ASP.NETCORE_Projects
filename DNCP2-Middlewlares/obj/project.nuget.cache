@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WICZnhNruRWRrCqlUO82UgGdLJO37+do3FZfdC57b9eEzCzp7rNERL2fVxH8MVwIjjmBqqdUbwan/UVQOOmmJA==",
+  "dgSpecHash": "8k4BzYN3xYp8GH0mZ/tGuX5d5DLrRvQcRfW2hq4CHeiV+4l3R0Spq8hSAxyV4w5Puchdstp6KTwjPzqSObjuPQ==",
   "success": true,
-  "projectFilePath": "V:\\WEB DEV\\ASP.NET CORE (Backend)\\ASP.NETCORE_Projects\\DNCP2-Middlewlares\\DNCP2-Middlewlares.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP2-Middlewlares\\DNCP2-Middlewlares.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\intel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

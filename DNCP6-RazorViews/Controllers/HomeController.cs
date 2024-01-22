@@ -1,44 +1,34 @@
-﻿using DNCP6_RazorViews.Models;
+﻿// Home controller - Single Action method
+
+
 using Microsoft.AspNetCore.Mvc;
+using DNCP6_RazorViews.Models;
 
 namespace DNCP6_RazorViews.Controllers
 {
     public class HomeController : Controller
     {
-        CityWeather cw1 = new CityWeather {
-            City_Unique_Code = "LDN",
-            City_Name = "London",
-            Date_Time = Convert.ToDateTime("2030-01-01 8:00"),
-            TemperatureF = 33
-        };
-
-        CityWeather cw2 = new CityWeather
-        {
-            City_Unique_Code = "NYC",
-            City_Name = "New York",
-            Date_Time = Convert.ToDateTime("2030-01-01 3:00"),
-            TemperatureF = 60
-        };
-
-        CityWeather cw3 = new CityWeather {
-            City_Unique_Code = "PAR",
-            City_Name = "Paris",
-            Date_Time = Convert.ToDateTime("2030-01-01 9:00"),
-            TemperatureF = 82
-        };
-
-        [HttpGet("/")]
+        // Default route
+        [Route("/")]
+        //Action Method
         public IActionResult Index()
         {
-            /* Did not transfer object from one controller to another
-            TempData["cw1_0"] = cw1;
-            TempData["cw2_0"] = cw2;
-            TempData["cw3_0"] = cw3;
-            */
+            // Hard code data
+            Weather w1 = new Weather() 
+            { city_code=100, name="Japan", date_time=new DateTime(2024, 01, 21, 16, 30, 0), temperature=21};
 
-            CityWeatherWrapper cww = new CityWeatherWrapper { cww1 = cw1, cww2 = cw2 , cww3 = cw3};
-            StatusCode(200);
-            return View(cww);
+            Weather w2 = new Weather()
+            { city_code = 101, name = "Sydney", date_time = new DateTime(2024, 01, 21, 18, 30, 0), temperature=31 };
+
+            Weather w3 = new Weather()
+            { city_code = 102, name = "London", date_time = new DateTime(2024, 01, 21, 7, 30, 0), temperature = 8 };
+
+            // Implementation of wrapper model class
+            AllWeather AllWeather_obj = new AllWeather();
+            AllWeather_obj.list_weather = new List<Weather>{ w1, w2, w3 };
+
+            // Return View page and send data from controller to view page
+            return View(AllWeather_obj);
         }
     }
 }
