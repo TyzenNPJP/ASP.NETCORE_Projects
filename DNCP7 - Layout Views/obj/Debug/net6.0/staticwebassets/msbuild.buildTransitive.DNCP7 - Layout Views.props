@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DNCP7 - Layout Views.props" />
+</Project>

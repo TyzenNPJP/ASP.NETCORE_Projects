@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "fPbXsESVZEIMypoG3rpsnF1wXCqj/x0BkDvGNTSgzMY=",
+  "Source": "DNCP8_PartialViews",
+  "BasePath": "_content/DNCP8_PartialViews",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DNCP8_PartialViews\\wwwroot",
+      "Source": "DNCP8_PartialViews",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP8 - Partial Views\\wwwroot\\",
+      "BasePath": "_content/DNCP8_PartialViews",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP8 - Partial Views\\wwwroot\\Design.png",
+      "SourceId": "DNCP8_PartialViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP8 - Partial Views\\wwwroot\\",
+      "BasePath": "_content/DNCP8_PartialViews",
+      "RelativePath": "Design.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Design.png"
+    },
+    {
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP8 - Partial Views\\wwwroot\\StyleSheet.css",
+      "SourceId": "DNCP8_PartialViews",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP8 - Partial Views\\wwwroot\\",
+      "BasePath": "_content/DNCP8_PartialViews",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

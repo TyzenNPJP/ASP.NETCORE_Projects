@@ -1,0 +1,23 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DNCP8___Partial_Views
+build_property.RootNamespace = DNCP8___Partial_Views
+build_property.ProjectDir = T:\CODE\ASP.NETCORE_Projects\DNCP8 - Partial Views\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = T:\CODE\ASP.NETCORE_Projects\DNCP8 - Partial Views
+build_property._RazorSourceGeneratorDebug = 
+
+[T:/CODE/ASP.NETCORE_Projects/DNCP8 - Partial Views/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
