@@ -1,1 +1,25 @@
-﻿<img src="Design.png"/>
+﻿@*  Strongly typed partial view
+    Accepts a list of objects as a Model variable from the view
+*@
+
+@model List<Achievement>
+
+<img src="Design.png"/>
+
+<table style="border: black solid">
+    <tr>
+        <th>Achievement Name</th>
+        <th>Year</th>
+        <th>Status</th>
+    </tr>
+    @{
+        foreach(Achievement a in Model)
+        {
+            <tr>
+            <td>@a.event_name</td>
+            <td>@a.date.Year</td>
+            <td>@a.status</td>
+            </tr>
+        }
+    }
+</table>

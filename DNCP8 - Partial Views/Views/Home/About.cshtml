@@ -5,4 +5,14 @@
 <p>A Weather app that is simply the best</p>
 <p>Based in a company from Japan</p>
 
-<partial name="_PartialView"></partial>
+@{
+    Achievement a1 = new Achievement() { id = 1, event_name = "Started the company", date = new DateOnly(2010, 01, 01) };
+    Achievement a2 = new Achievement() { id = 2, event_name = "Company's first 50 employees", date = new DateOnly(2015, 05, 01), status = "Complete" };
+    Achievement a3 = new Achievement() { id = 3, event_name = "Services in 10 countries", date = new DateOnly(2020, 01, 01), status = "Complete" };
+    Achievement a4 = new Achievement() { id = 4, event_name = "Services in 50 countries", date = new DateOnly(2030, 01, 01), status = "Pending" };
+
+    List<Achievement> list_achievement = new List<Achievement>() { a1, a2, a3, a4};
+}
+
+@* Applies the partial view in this location and also sends data to the partial view*@
+<partial name="_PartialView" model="list_achievement"></partial>
