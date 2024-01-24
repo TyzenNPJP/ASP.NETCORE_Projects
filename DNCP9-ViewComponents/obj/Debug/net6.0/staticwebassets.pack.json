@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\Design.png",
+      "PackagePath": "staticwebassets\\Design.png"
+    },
+    {
+      "Id": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\city.jpg",
+      "PackagePath": "staticwebassets\\city.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DNCP9-ViewComponents.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DNCP9-ViewComponents.props",
+      "PackagePath": "build\\DNCP9-ViewComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DNCP9-ViewComponents.props",
+      "PackagePath": "buildMultiTargeting\\DNCP9-ViewComponents.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DNCP9-ViewComponents.props",
+      "PackagePath": "buildTransitive\\DNCP9-ViewComponents.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+﻿@model AllWeather
+
+<h3> List of all cities</h3>
+
+@{
+    foreach (Weather item in Model.list_weather)
+    {
+        <p>@item.name</p>
+    }
+}
+
+@await Component.InvokeAsync("Timezone")

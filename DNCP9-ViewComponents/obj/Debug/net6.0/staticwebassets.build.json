@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "LDLX2S2eBwyZdbfUoalWeth9hm3NmvqbmLclEmee7mw=",
+  "Source": "DNCP9-ViewComponents",
+  "BasePath": "_content/DNCP9-ViewComponents",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DNCP9-ViewComponents\\wwwroot",
+      "Source": "DNCP9-ViewComponents",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\",
+      "BasePath": "_content/DNCP9-ViewComponents",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\city.jpg",
+      "SourceId": "DNCP9-ViewComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\",
+      "BasePath": "_content/DNCP9-ViewComponents",
+      "RelativePath": "city.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\city.jpg"
+    },
+    {
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\Design.png",
+      "SourceId": "DNCP9-ViewComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\",
+      "BasePath": "_content/DNCP9-ViewComponents",
+      "RelativePath": "Design.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Design.png"
+    },
+    {
+      "Identity": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\StyleSheet.css",
+      "SourceId": "DNCP9-ViewComponents",
+      "SourceType": "Discovered",
+      "ContentRoot": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP9-ViewComponents\\wwwroot\\",
+      "BasePath": "_content/DNCP9-ViewComponents",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

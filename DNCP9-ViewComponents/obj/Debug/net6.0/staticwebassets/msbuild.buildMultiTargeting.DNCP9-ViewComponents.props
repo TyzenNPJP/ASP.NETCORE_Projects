@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DNCP9-ViewComponents.props" />
+</Project>
