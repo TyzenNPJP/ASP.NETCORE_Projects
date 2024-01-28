@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_Services\\DNCP10_Services.csproj": {}
+  },
+  "projects": {
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj",
+        "projectName": "DNCP10-DependencyInjection",
+        "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\DNCP10_ServiceContracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\DNCP10_ServiceContracts.csproj",
+        "projectName": "DNCP10_ServiceContracts",
+        "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\DNCP10_ServiceContracts.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj": {
+                "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_Services\\DNCP10_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_Services\\DNCP10_Services.csproj",
+        "projectName": "DNCP10_Services",
+        "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_Services\\DNCP10_Services.csproj",
+        "packagesPath": "C:\\Users\\intel\\.nuget\\packages\\",
+        "outputPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\intel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj": {
+                "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10-DependencyInjection\\DNCP10-DependencyInjection.csproj"
+              },
+              "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\DNCP10_ServiceContracts.csproj": {
+                "projectPath": "T:\\CODE\\ASP.NETCORE_Projects\\DNCP10_ServiceContracts\\DNCP10_ServiceContracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

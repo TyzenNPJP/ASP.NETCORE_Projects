@@ -1,0 +1,71 @@
+﻿@*
+    Details view page that is dynamically set through C# code
+*@
+
+@model Weather
+
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Details Page</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+    <style>
+        .div-center {
+            margin: auto;
+        }
+
+        .color-hot {
+            background-color: lightcoral
+        }
+
+        .color-medium {
+            background-color: lightgreen
+        }
+
+        .color-cold {
+            background-color: cornflowerblue
+        }
+
+    </style>
+</head>
+
+@{
+    char deg_symbol = (char)0x00B0;
+}
+
+<body>
+    @if (Model.temperature <= 20)
+    {
+        <div class="box w-25 text-center flex div-center margin-top-200 color-cold">
+            <h3>@Model.name</h3>
+            <text>@Model.date_time.Day/@Model.date_time.Month/@Model.date_time.Year</text>
+            <text>@Model.date_time.TimeOfDay</text>
+            <text>@Model.temperature @deg_symbol C</text>
+            <a href="/">Return to home page</a>
+        </div>
+    }
+    else if (Model.temperature > 20 && Model.temperature < 30)
+    {
+        <div class="box w-25 text-center flex div-center margin-top-200 color-medium">
+            <h3>@Model.name</h3>
+            <text>@Model.date_time.Day/@Model.date_time.Month/@Model.date_time.Year</text>
+            <text>@Model.date_time.TimeOfDay</text>
+            <text>@Model.temperature @deg_symbol C</text>
+            <a href="/">Return to home page</a>
+        </div>
+    }
+    else if (Model.temperature >= 30)
+    {
+        <div class="box w-25 text-center flex div-center margin-top-200 color-hot">
+            <h3>@Model.name</h3>
+            <text>@Model.date_time.Day/@Model.date_time.Month/@Model.date_time.Year</text>
+            <text>@Model.date_time.TimeOfDay</text>
+            <text>@Model.temperature @deg_symbol C</text>
+            <a href="/">Return to home page</a>
+        </div>
+    }
+
+
+</body>
+</html>
